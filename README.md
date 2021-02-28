@@ -23,3 +23,7 @@ It's a slow process, but the **consistency** will pay off in _the end_.
 #### Change to simulate a real life scenario
 
 This is a change made as I followed along with the freeCodeCamp Git tutorial.
+
+##### Another change to help me understand branching
+
+Making this change initially while on the "feature-readme-instructions" branch as I learn about branching.
